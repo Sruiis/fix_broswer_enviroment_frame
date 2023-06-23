@@ -1,0 +1,6 @@
+同步代码开始执行 
+同步代码结束执行 
+charging true 
+chargingTime 0 
+level 1 
+dHJ1ZTAx 

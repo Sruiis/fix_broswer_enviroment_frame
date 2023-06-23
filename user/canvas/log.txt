@@ -1,0 +1,756 @@
+{has|obj:[plugin_ID(1)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[plugin_ID(1)] -> prop:[Symbol(data)]} 
+{get|obj:[plugin_ID(1)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(1).Symbol(data)] -> prop:[description],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(1).Symbol(data)] -> prop:[description]} 
+{set|obj:[plugin_ID(1).Symbol(data)] -> prop:[description],value:[Portable Document Format]} 
+{has|obj:[plugin_ID(1)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(1)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(1).Symbol(data)] -> prop:[filename],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(1).Symbol(data)] -> prop:[filename]} 
+{set|obj:[plugin_ID(1).Symbol(data)] -> prop:[filename],value:[internal-pdf-viewer]} 
+{has|obj:[plugin_ID(1)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(1)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(1).Symbol(data)] -> prop:[name],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(1).Symbol(data)] -> prop:[name]} 
+{set|obj:[plugin_ID(1).Symbol(data)] -> prop:[name],value:[PDF Viewer]} 
+{has|obj:[plugin_ID(1)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(1)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(1).Symbol(data)] -> prop:[length],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(1).Symbol(data)] -> prop:[length]} 
+{set|obj:[plugin_ID(1).Symbol(data)] -> prop:[length],value:[2]} 
+{has|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],type:[[object Undefined]]} 
+{defineProperty|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length]} 
+{set|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],value:[0]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[0]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[0]} 
+{getOwnPropertyDescriptor|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object Undefined]]} 
+{defineProperty|obj:[mimeTypeArray_ID(3)] -> prop:[0]} 
+{set|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{defineProperty|obj:[mimeTypeArray_ID(3)] -> prop:[application/pdf]} 
+{has|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],type:[[object Object]]} 
+{defineProperty|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length]} 
+{set|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],value:[1]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(1)] -> prop:[0],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(1)] -> prop:[0]} 
+{set|obj:[plugin_ID(1)] -> prop:[0],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(1)] -> prop:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[1]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[1]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{getOwnPropertyDescriptor|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object Undefined]]} 
+{defineProperty|obj:[mimeTypeArray_ID(3)] -> prop:[1]} 
+{set|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{defineProperty|obj:[mimeTypeArray_ID(3)] -> prop:[text/pdf]} 
+{has|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],type:[[object Object]]} 
+{defineProperty|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length]} 
+{set|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],value:[2]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(1)] -> prop:[1],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(1)] -> prop:[1]} 
+{set|obj:[plugin_ID(1)] -> prop:[1],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(1)] -> prop:[text/pdf]} 
+{has|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],type:[[object Undefined]]} 
+{defineProperty|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length]} 
+{set|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],value:[0]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],ret:[0]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[length],ret:[0]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5)] -> prop:[0],type:[[object Undefined]]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[0]} 
+{get|obj:[plugin_ID(1)] -> prop:[Symbol(Symbol.toStringTag)],ret:[Plugin]} 
+{getPrototypeOf|obj:[plugin_ID(1)]} 
+{set|obj:[pluginArray_ID(5)] -> prop:[0],type:[[object Plugin]]} 
+{get|obj:[plugin_ID(1)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(1)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(1).Symbol(data)] -> prop:[name],ret:[PDF Viewer]} 
+{get|obj:[plugin_ID(1)] -> prop:[name],ret:[PDF Viewer]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[PDF Viewer]} 
+{has|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],type:[[object Object]]} 
+{defineProperty|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length]} 
+{set|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],value:[1]} 
+{has|obj:[plugin_ID(6)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[plugin_ID(6)] -> prop:[Symbol(data)]} 
+{get|obj:[plugin_ID(6)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(6).Symbol(data)] -> prop:[description],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(6).Symbol(data)] -> prop:[description]} 
+{set|obj:[plugin_ID(6).Symbol(data)] -> prop:[description],value:[Portable Document Format]} 
+{has|obj:[plugin_ID(6)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(6)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(6).Symbol(data)] -> prop:[filename],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(6).Symbol(data)] -> prop:[filename]} 
+{set|obj:[plugin_ID(6).Symbol(data)] -> prop:[filename],value:[internal-pdf-viewer]} 
+{has|obj:[plugin_ID(6)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(6)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(6).Symbol(data)] -> prop:[name],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(6).Symbol(data)] -> prop:[name]} 
+{set|obj:[plugin_ID(6).Symbol(data)] -> prop:[name],value:[Chrome PDF Viewer]} 
+{has|obj:[plugin_ID(6)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(6)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(6).Symbol(data)] -> prop:[length],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(6).Symbol(data)] -> prop:[length]} 
+{set|obj:[plugin_ID(6).Symbol(data)] -> prop:[length],value:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(6)] -> prop:[0],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(6)] -> prop:[0]} 
+{set|obj:[plugin_ID(6)] -> prop:[0],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(6)] -> prop:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(6)] -> prop:[1],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(6)] -> prop:[1]} 
+{set|obj:[plugin_ID(6)] -> prop:[1],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(6)] -> prop:[text/pdf]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],ret:[1]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[length],ret:[1]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5)] -> prop:[1],type:[[object Undefined]]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[1]} 
+{get|obj:[plugin_ID(6)] -> prop:[Symbol(Symbol.toStringTag)],ret:[Plugin]} 
+{getPrototypeOf|obj:[plugin_ID(6)]} 
+{set|obj:[pluginArray_ID(5)] -> prop:[1],type:[[object Plugin]]} 
+{get|obj:[plugin_ID(6)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(6)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(6).Symbol(data)] -> prop:[name],ret:[Chrome PDF Viewer]} 
+{get|obj:[plugin_ID(6)] -> prop:[name],ret:[Chrome PDF Viewer]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[Chrome PDF Viewer]} 
+{has|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],type:[[object Object]]} 
+{defineProperty|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length]} 
+{set|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],value:[2]} 
+{has|obj:[plugin_ID(9)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[plugin_ID(9)] -> prop:[Symbol(data)]} 
+{get|obj:[plugin_ID(9)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(9).Symbol(data)] -> prop:[description],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(9).Symbol(data)] -> prop:[description]} 
+{set|obj:[plugin_ID(9).Symbol(data)] -> prop:[description],value:[Portable Document Format]} 
+{has|obj:[plugin_ID(9)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(9)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(9).Symbol(data)] -> prop:[filename],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(9).Symbol(data)] -> prop:[filename]} 
+{set|obj:[plugin_ID(9).Symbol(data)] -> prop:[filename],value:[internal-pdf-viewer]} 
+{has|obj:[plugin_ID(9)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(9)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(9).Symbol(data)] -> prop:[name],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(9).Symbol(data)] -> prop:[name]} 
+{set|obj:[plugin_ID(9).Symbol(data)] -> prop:[name],value:[Chromium PDF Viewer]} 
+{has|obj:[plugin_ID(9)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(9)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(9).Symbol(data)] -> prop:[length],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(9).Symbol(data)] -> prop:[length]} 
+{set|obj:[plugin_ID(9).Symbol(data)] -> prop:[length],value:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(9)] -> prop:[0],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(9)] -> prop:[0]} 
+{set|obj:[plugin_ID(9)] -> prop:[0],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(9)] -> prop:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(9)] -> prop:[1],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(9)] -> prop:[1]} 
+{set|obj:[plugin_ID(9)] -> prop:[1],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(9)] -> prop:[text/pdf]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[length],ret:[2]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5)] -> prop:[2],type:[[object Undefined]]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[2]} 
+{get|obj:[plugin_ID(9)] -> prop:[Symbol(Symbol.toStringTag)],ret:[Plugin]} 
+{getPrototypeOf|obj:[plugin_ID(9)]} 
+{set|obj:[pluginArray_ID(5)] -> prop:[2],type:[[object Plugin]]} 
+{get|obj:[plugin_ID(9)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(9)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(9).Symbol(data)] -> prop:[name],ret:[Chromium PDF Viewer]} 
+{get|obj:[plugin_ID(9)] -> prop:[name],ret:[Chromium PDF Viewer]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[Chromium PDF Viewer]} 
+{has|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],type:[[object Object]]} 
+{defineProperty|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length]} 
+{set|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],value:[3]} 
+{has|obj:[plugin_ID(12)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[plugin_ID(12)] -> prop:[Symbol(data)]} 
+{get|obj:[plugin_ID(12)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(12).Symbol(data)] -> prop:[description],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(12).Symbol(data)] -> prop:[description]} 
+{set|obj:[plugin_ID(12).Symbol(data)] -> prop:[description],value:[Portable Document Format]} 
+{has|obj:[plugin_ID(12)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(12)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(12).Symbol(data)] -> prop:[filename],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(12).Symbol(data)] -> prop:[filename]} 
+{set|obj:[plugin_ID(12).Symbol(data)] -> prop:[filename],value:[internal-pdf-viewer]} 
+{has|obj:[plugin_ID(12)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(12)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(12).Symbol(data)] -> prop:[name],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(12).Symbol(data)] -> prop:[name]} 
+{set|obj:[plugin_ID(12).Symbol(data)] -> prop:[name],value:[Microsoft Edge PDF Viewer]} 
+{has|obj:[plugin_ID(12)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(12)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(12).Symbol(data)] -> prop:[length],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(12).Symbol(data)] -> prop:[length]} 
+{set|obj:[plugin_ID(12).Symbol(data)] -> prop:[length],value:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(12)] -> prop:[0],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(12)] -> prop:[0]} 
+{set|obj:[plugin_ID(12)] -> prop:[0],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(12)] -> prop:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(12)] -> prop:[1],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(12)] -> prop:[1]} 
+{set|obj:[plugin_ID(12)] -> prop:[1],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(12)] -> prop:[text/pdf]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],ret:[3]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[length],ret:[3]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5)] -> prop:[3],type:[[object Undefined]]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[3]} 
+{get|obj:[plugin_ID(12)] -> prop:[Symbol(Symbol.toStringTag)],ret:[Plugin]} 
+{getPrototypeOf|obj:[plugin_ID(12)]} 
+{set|obj:[pluginArray_ID(5)] -> prop:[3],type:[[object Plugin]]} 
+{get|obj:[plugin_ID(12)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(12)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(12).Symbol(data)] -> prop:[name],ret:[Microsoft Edge PDF Viewer]} 
+{get|obj:[plugin_ID(12)] -> prop:[name],ret:[Microsoft Edge PDF Viewer]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[Microsoft Edge PDF Viewer]} 
+{has|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],type:[[object Object]]} 
+{defineProperty|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length]} 
+{set|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],value:[4]} 
+{has|obj:[plugin_ID(15)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[plugin_ID(15)] -> prop:[Symbol(data)]} 
+{get|obj:[plugin_ID(15)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(15).Symbol(data)] -> prop:[description],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(15).Symbol(data)] -> prop:[description]} 
+{set|obj:[plugin_ID(15).Symbol(data)] -> prop:[description],value:[Portable Document Format]} 
+{has|obj:[plugin_ID(15)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(15)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(15).Symbol(data)] -> prop:[filename],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(15).Symbol(data)] -> prop:[filename]} 
+{set|obj:[plugin_ID(15).Symbol(data)] -> prop:[filename],value:[internal-pdf-viewer]} 
+{has|obj:[plugin_ID(15)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(15)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(15).Symbol(data)] -> prop:[name],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(15).Symbol(data)] -> prop:[name]} 
+{set|obj:[plugin_ID(15).Symbol(data)] -> prop:[name],value:[WebKit built-in PDF]} 
+{has|obj:[plugin_ID(15)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[plugin_ID(15)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(15).Symbol(data)] -> prop:[length],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(15).Symbol(data)] -> prop:[length]} 
+{set|obj:[plugin_ID(15).Symbol(data)] -> prop:[length],value:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(15)] -> prop:[0],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(15)] -> prop:[0]} 
+{set|obj:[plugin_ID(15)] -> prop:[0],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(15)] -> prop:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeTypeArray_ID(3).Symbol(data)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(2).Symbol(data)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_ID(2)] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_ID(3)] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[mimeType_ID(4).Symbol(data)] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_ID(4)] -> prop:[type],ret:[text/pdf]} 
+{getOwnPropertyDescriptor|obj:[plugin_ID(15)] -> prop:[1],type:[[object Undefined]]} 
+{defineProperty|obj:[plugin_ID(15)] -> prop:[1]} 
+{set|obj:[plugin_ID(15)] -> prop:[1],type:[[object MimeType]]} 
+{defineProperty|obj:[plugin_ID(15)] -> prop:[text/pdf]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],ret:[4]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[length],ret:[4]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5)] -> prop:[4],type:[[object Undefined]]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[4]} 
+{get|obj:[plugin_ID(15)] -> prop:[Symbol(Symbol.toStringTag)],ret:[Plugin]} 
+{getPrototypeOf|obj:[plugin_ID(15)]} 
+{set|obj:[pluginArray_ID(5)] -> prop:[4],type:[[object Plugin]]} 
+{get|obj:[plugin_ID(15)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(15)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[plugin_ID(15).Symbol(data)] -> prop:[name],ret:[WebKit built-in PDF]} 
+{get|obj:[plugin_ID(15)] -> prop:[name],ret:[WebKit built-in PDF]} 
+{defineProperty|obj:[pluginArray_ID(5)] -> prop:[WebKit built-in PDF]} 
+{has|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[pluginArray_ID(5)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],type:[[object Object]]} 
+{defineProperty|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length]} 
+{set|obj:[pluginArray_ID(5).Symbol(data)] -> prop:[length],value:[5]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLDivElement]} 
+{getPrototypeOf|obj:[Document_createElement_div_ID(19)]} 
+{apply|function:[document.createElement], args:[div], type:[[object HTMLDivElement]]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLSpanElement]} 
+{getPrototypeOf|obj:[Document_createElement_span_ID(21)]} 
+{apply|function:[document.createElement], args:[span], type:[[object HTMLSpanElement]]} 
+{has|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[lang],type:[[object Undefined]]} 
+{defineProperty|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[lang]} 
+{set|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[lang],value:[zh]} 
+{has|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object Undefined]]} 
+{defineProperty|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{set|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{has|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)], result:[true]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[textContent],type:[[object Undefined]]} 
+{defineProperty|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[textContent]} 
+{set|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[textContent],value:[fontTest]} 
+{has|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(data)]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[Document_createElement_div_ID(19).Symbol(data)] -> prop:[children],type:[[object Undefined]]} 
+{defineProperty|obj:[Document_createElement_div_ID(19).Symbol(data)] -> prop:[children]} 
+{get|obj:[collection_ID(22)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLCollection]} 
+{getPrototypeOf|obj:[collection_ID(22)]} 
+{set|obj:[Document_createElement_div_ID(19).Symbol(data)] -> prop:[children],type:[[object HTMLCollection]]} 
+{set|obj:[Document_createElement_div_ID(19)] -> prop:[innerHTML],value:[<span lang="zh" style="font-family:mmll;font-size:160px">fontTest</span>]} 
+{get|obj:[Document_createElement_body_ID(18)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLBodyElement]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLDivElement]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLSpanElement]} 
+{get|obj:[Document_createElement_body_ID(18)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLBodyElement]} 
+{getPrototypeOf|obj:[Document_createElement_body_ID(18)]} 
+{get|obj:[document] -> prop:[body],type:[[object HTMLBodyElement]]} 
+{get|obj:[Document_createElement_body_ID(18)] -> prop:[appendChild],type:[[object Function]]} 
+{has|obj:[Document_createElement_body_ID(18)] -> prop:[Symbol(data)], result:[false]} 
+{defineProperty|obj:[Document_createElement_body_ID(18)] -> prop:[Symbol(data)]} 
+{get|obj:[Document_createElement_body_ID(18)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{getOwnPropertyDescriptor|obj:[Document_createElement_body_ID(18).Symbol(data)] -> prop:[children],type:[[object Undefined]]} 
+{defineProperty|obj:[Document_createElement_body_ID(18).Symbol(data)] -> prop:[children]} 
+{get|obj:[collection_ID(23)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLCollection]} 
+{getPrototypeOf|obj:[collection_ID(23)]} 
+{set|obj:[Document_createElement_body_ID(18).Symbol(data)] -> prop:[children],type:[[object HTMLCollection]]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLDivElement]} 
+{getPrototypeOf|obj:[Document_createElement_div_ID(19)]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toPrimitive)],ret:[undefined]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[toString],type:[[object Function]]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLDivElement]} 
+{apply|function:[Document_createElement_div_ID(19).toString], args:[] result:[[object HTMLDivElement]]} 
+{apply|function:[Document_createElement_body_ID(18).appendChild], args:[[object HTMLDivElement]], type:[[object HTMLDivElement]]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[collection_ID(22)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLCollection]} 
+{getPrototypeOf|obj:[collection_ID(22)]} 
+{get|obj:[Document_createElement_div_ID(19).Symbol(data)] -> prop:[children],type:[[object HTMLCollection]]} 
+{get|obj:[collection_ID(22)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLCollection]} 
+{getPrototypeOf|obj:[collection_ID(22)]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[children],type:[[object HTMLCollection]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLSpanElement]} 
+{getPrototypeOf|obj:[Document_createElement_span_ID(21)]} 
+{get|obj:[collection_ID(22)] -> prop:[0],type:[[object HTMLSpanElement]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[mmll]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[mmll]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetHeight],ret:[999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[SimHei]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[SimHei]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1666]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[SimSun]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[SimSun]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1666]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[NSimSun]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[NSimSun]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1666]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[FangSong]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[FangSong]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1666]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[KaiTi]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[KaiTi]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1666]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[abc]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[abc]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[abc]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetHeight],ret:[999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[lll]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[lll]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[lll]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetHeight],ret:[999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[kkk]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[kkk]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[kkk]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetHeight],ret:[999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[mmm]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[mmm]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[mmm]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetHeight],ret:[999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{getOwnPropertyDescriptor|obj:[style_ID(20)] -> prop:[fontFamily],type:[[object Object]]} 
+{defineProperty|obj:[style_ID(20)] -> prop:[fontFamily]} 
+{set|obj:[style_ID(20)] -> prop:[fontFamily],value:[ttt]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[ttt]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetWidth],ret:[1999]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(data)],type:[[object Object]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21).Symbol(data)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[Symbol(Symbol.toStringTag)],ret:[CSSStyleDeclaration]} 
+{getPrototypeOf|obj:[style_ID(20)]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_ID(20)] -> prop:[fontFamily],ret:[ttt]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[offsetHeight],ret:[999]} 
+U2ltSGVpLFNpbVN1bixOU2ltU3VuLEZhbmdTb25nLEthaVRp 
+{get|obj:[Document_createElement_body_ID(18)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLBodyElement]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLDivElement]} 
+{get|obj:[Document_createElement_span_ID(21)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLSpanElement]} 
+{get|obj:[Document_createElement_body_ID(18)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLBodyElement]} 
+{getPrototypeOf|obj:[Document_createElement_body_ID(18)]} 
+{get|obj:[document] -> prop:[body],type:[[object HTMLBodyElement]]} 
+{get|obj:[Document_createElement_body_ID(18)] -> prop:[removeChild],type:[[object Function]]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toPrimitive)],ret:[undefined]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[toString],type:[[object Function]]} 
+{get|obj:[Document_createElement_div_ID(19)] -> prop:[Symbol(Symbol.toStringTag)],ret:[HTMLDivElement]} 
+{apply|function:[Document_createElement_div_ID(19).toString], args:[] result:[[object HTMLDivElement]]} 
+{apply|function:[Document_createElement_body_ID(18).removeChild], args:[[object HTMLDivElement]] result:[undefined]} 

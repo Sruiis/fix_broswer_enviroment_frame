@@ -1,0 +1,2 @@
+[Document_all_get]正在执行，错误信息: Object.setPrototypeOf called on null or undefined 
+环境异常0 
